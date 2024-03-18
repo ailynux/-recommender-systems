@@ -1,5 +1,8 @@
 <div style="display: flex; align-items: center; justify-content: space-between; padding: 1rem 2rem; background-color: #f0f0f0; border-radius: 5px;">
   <h1>Recommender Systems</h1>
+  
+  [![GitHub Badge](https://img.shields.io/github/followers/ailynux?style=social)](https://github.com/ailynux)
+
   <img src="https://github.com/ailynux/recommender-systems/assets/95152597/2d6ec11f-7020-4196-9a62-04d64c309d41" alt="Recommender Systems Illustration" width="500" height="auto" style="border-radius: 5px; box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);">
 </div>
 
